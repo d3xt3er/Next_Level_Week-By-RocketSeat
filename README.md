@@ -2,7 +2,9 @@
 
 <center><h3>Semana NLW da RocketSeat :astronaut: - :computer:</h3></center>
 
-![NLW](/Image/1440x900.jpg)
+<p align="center">
+  <img width="410" height="250" src="/Image/1440x900.jpg">
+</p>
 
 ## <center>Tecnologias</center> :call_me_hand:
 
