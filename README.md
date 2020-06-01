@@ -1,14 +1,19 @@
 # Next_Level_Week-By-RocketSeat
 
 <p align="center">
-<b><h2>Semana NLW da RocketSeat :astronaut: - :computer: - :rocket:</h2></b>
+  
+### Semana NLW da RocketSeat :astronaut: - :computer: - :rocket:
+
 </p>
 
 <p align="center">
-<b>Projeto Completo na "Branch-release"</b>
+
+#### Projeto Completo na "Branch-release"
+
 </p>
 
 <p align="center">
+
 ## Tecnologias :call_me_hand:
 
 #### :white_check_mark: Node.js - Back-End :globe_with_meridians:
