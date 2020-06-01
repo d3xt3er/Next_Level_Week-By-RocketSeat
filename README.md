@@ -1,6 +1,8 @@
 # Next_Level_Week-By-RocketSeat
 
-<center><h3>Semana NLW da RocketSeat :astronaut: - :computer: - :rocket:</h3></center>
+<p align="center">
+<b>Semana NLW da RocketSeat :astronaut: - :computer: - :rocket:</b>
+</p>
 
 ## <center>Tecnologias</center> :call_me_hand:
 
