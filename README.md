@@ -1,6 +1,8 @@
 # Next_Level_Week-By-RocketSeat
 
-<center><h3>Semana NLW da RocketSeat :astronaut: - :computer:</h3></center>
+<p align="center"> 
+<h3>Semana NLW da RocketSeat :astronaut: - :computer:</h3>
+</p>
 
 <p align="center">
   <img width="500" height="320" src="/Image/1440x900.jpg">
