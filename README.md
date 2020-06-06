@@ -12,5 +12,5 @@
 
 ## <center>Outros Recursos</center> :call_me_hand:
 
-#### :white_check_mark: API IBGE 
-#### :white_check_mark: API LEAFLET
+#### :white_check_mark: API IBGE - UF && CIDADES
+#### :white_check_mark: API LEAFLET MAPS
